@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Ashraful! 👋
+### UI/UX & Brand Designer
 
-<!--
-**ashrafuluiuxdesigner/ashrafuluiuxdesigner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my design space! I specialize in crafting clean, user-centric, and modern digital experiences. From sketching out initial concepts to building high-fidelity interactive designs, I love solving complex problems through visual storytelling.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎨 My Core Expertise
+* **UI/UX Design:** User Research, User Interface, Wireframing, High-Fidelity Prototyping
+* **Visual Arts:** Branding, Identity System, Logo Design
+* **Tools I Use:** Figma, Adobe Photoshop, Adobe Illustrator
+
+
+### 🌐 Connect With Me & See My Work
+Let's collaborate or talk about design!
+
+* **Portfolio:** Instagram [https://www.instagram.com/ashrafulstudio.1/]
+* **Professional Network:** Linkedin [https://www.linkedin.com/in/ashraful-islam-77677038b/]
+* **Design Updates:** Twitter(X) [https://x.com/ashrafulstudio]
+* **Direct Reach:** WhatsApp [https://WA.me/8801617185361]
+
+
+### 🚀 Let's Build Something Great Together!
+* 📫 Reach out via email at: **ashrafulisalm5361@gamil.com**
