@@ -20,4 +20,4 @@ Let's collaborate or talk about design!
 
 
 ### 🚀 Let's Build Something Great Together!
-* 📫 Reach out via email at: **ashrafulisalm5361@gamil.com**
+* 📫 Reach out via email at: **ashrafulisalm5361@gmail.com**
